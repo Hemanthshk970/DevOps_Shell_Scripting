@@ -22,7 +22,7 @@ const Dashboard: React.FC<DashboardProps> = ({ onStartLesson }) => {
       <div className="bg-gradient-to-r from-blue-600 to-purple-700 rounded-2xl text-white p-8 mb-8">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-4xl font-bold mb-4">DevOps Shell Scripting Lab</h1>
+            <h1 className="text-4xl font-bold mb-4">DevOps Shell Scripting Lab by HEMANTH</h1>
             <p className="text-xl text-blue-100 mb-6 max-w-2xl">
               Master shell scripting with hands-on exercises. Learn essential commands through 
               interactive theory, examples, and practice sessions.
